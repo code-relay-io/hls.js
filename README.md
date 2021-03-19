@@ -6,7 +6,7 @@ Remember your job is to make *incremental* progress, break the task into smaller
 No responsibility, only fun.
 
 
-When you've done your 15 minutes add your next task to the readme.md. When you're done make a pull request to the repo.
+When you have finished your 15 minutes, add your next task to the readme.md. Then make a pull request to the repo.
 
 If you don't finish, add your next task to the readme.md. When you're done, add your next task to the top of the readme and make a pull request to this repo
 
