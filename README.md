@@ -1,3 +1,21 @@
+# Task #1
+
+https://github.com/venueless/venueless/issues/175
+
+Remember your job is to make *incremental* progress, break the task into smaller tasks, or finish something in 15 minutes, then pass it along to the next contributor. 
+No responsibility, only fun.
+
+
+When you've done your 15 minutes add your next task to the readme.md. When you're done make a pull request to the repo.
+
+If you don't finish, add your next task to the readme.md. When you're done, add your next task to the top of the readme and make a pull request to this repo
+
+Email with questions
+Cheers,
+Michael
+
+
+
 [![npm](https://img.shields.io/npm/v/hls.js.svg?style=flat)](https://npmjs.org/package/hls.js)
 [![npm](https://img.shields.io/npm/v/hls.js/canary.svg?style=flat)](https://www.npmjs.com/package/hls.js/v/canary)
 [![](https://data.jsdelivr.com/v1/package/npm/hls.js/badge?style=rounded)](https://www.jsdelivr.com/package/npm/hls.js)
