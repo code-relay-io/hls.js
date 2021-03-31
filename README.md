@@ -1,6 +1,5 @@
 # Task #1
-
-https://github.com/venueless/venueless/issues/175
+https://github.com/video-dev/hls.js/issues/2472
 
 Remember your job is to make *incremental* progress, break the task into smaller tasks, or finish something in 15 minutes, then pass it along to the next contributor. 
 No responsibility, only fun.
