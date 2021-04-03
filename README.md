@@ -5,13 +5,16 @@ Remember your job is to make *incremental* progress, break the task into smaller
 No responsibility, only fun.
 
 
-When you have finished your 15 minutes, add your next task to the readme.md. Then make a pull request to the repo.
-
-If you don't finish, add your next task to the readme.md. When you're done, add your next task to the top of the readme and make a pull request to this repo
+When you have finished your 15 minutes, add your next task to the top of the "Worklog and Next Steps" section below, then make a pull request to the repo. You can keep the task to yourself as long as you wish. When you're ready to pass it on, just make PR for your changes to this README.
 
 Email with questions
 Cheers,
 Michael
+
+## Worklog and Next Steps
+
+* **\[your name\]: \[the date\]:** \[What you did\] **NEXT: \[What to do next\]**
+* **@kael-shipman: 2021-04-02:** Researched the issue. Found that someone has created a PR to address the issue, but the PR was mysteriously closed by the author, despite being apparently mostly ready. I've left a comment on that PR ([here](https://github.com/video-dev/hls.js/pull/2542)) to see if I someone will give further instructions. **NEXT: Subscribe to [PR 2542](https://github.com/video-dev/hls.js/pull/2542) and respond to comments from the maintainers.**
 
 
 
